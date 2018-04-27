@@ -1,0 +1,60 @@
+1,MI,CSK,07-Apr,8 (PM),Mumbai,Wankhede
+2,DD,KXP,08-Apr,4 (PM),Mohali,Bindra
+3,KKR,RCB,08-Apr,8 (PM),Kolkata,Eden Gardens
+4,SRH,RR,09-Apr,8 (PM),Hyderabad,Rajiv Gandhi Intl
+5,CSK,KKR,10-Apr,8 (PM),Chennai,Chidambaram
+6,RR,DD,11-Apr,8 (PM),Jaipur,Sawai Mansingh 
+7,SRH,MI,12-Apr,8 (PM),Hyderabad,Rajiv Gandhi Intl
+8,RCB,KXP,13-Apr,8 (PM),Bengaluru,M. Chinnaswamy 
+9,MI,DD,14-Apr,4 (PM),Mumbai,Wankhede 
+10,KKR,SRH,14-Apr,8 (PM),Kolkata,Eden Gardens
+11,RCB,RR,15-Apr,4 (PM),Bengaluru,M. Chinnaswamy 
+12,KXP,CSK,15-Apr,8 (PM),Mohali,Bindra
+13,KKR,DD,16-Apr,8 (PM),Kolkata,Eden Gardens
+14,MI,RCB,17-Apr,8 (PM),Mumbai,Wankhede
+15,RR,KKR,18-Apr,8 (PM),Jaipur,Sawai Mansingh 
+16,KXP,SRH,19-Apr,8 (PM),Mohali,Bindra
+17,CSK,RR,20-Apr,8 (PM),Chennai,Chidambaram 
+18,KKR,KXP,21-Apr,4 (PM),Kolkata,Eden Gardens
+19,DD,RCB,21-Apr,8 (PM),Delhi,M. Chinnaswamy 
+20,SRH,CSK,22-Apr,4 (PM),Hyderabad,Rajiv Gandhi Intl
+21,RR,MI,22-Apr,8 (PM),Jaipur,Sawai Mansingh 
+22,KXP,DD,23-Apr,8 (PM),Delhi,Feroz Shah Kotla 
+23,MI,SRH,24-Apr,8 (PM),Mumbai,Wankhede
+24,RCB,CSK,25-Apr,8 (PM),Bengaluru,M. Chinnaswamy 
+25,SRH,KXP,26-Apr,8 (PM),Hyderabad,Rajiv Gandhi Intl
+26,DD,KKR,27-Apr,8 (PM),Delhi,Feroz Shah Kotla 
+27,CSK,MI,28-Apr,8 (PM),Chennai,Chidambaram 
+28,RR,SRH,29-Apr,4 (PM),Jaipur,Sawai Mansingh 
+29,RCB,KKR,29-Apr,8 (PM),Bengaluru,M. Chinnaswamy 
+30,CSK,DD,30-Apr,8 (PM),Chennai,Chidambaram 
+31,RCB,MI,01-May,8 (PM),Bengaluru,M. Chinnaswamy 
+32,DD,RR,02-May,8 (PM),Delhi,Feroz Shah Kotla 
+33,KKR,CSK,03-May,8 (PM),Kolkata,Eden Gardens
+34,KXP,MI,04-May,8 (PM),Indore,Holkar
+35,CSK,RCB,05-May,4 (PM),Chennai,Chidambaram 
+36,SRH,DD,05-May,8 (PM),Hyderabad,Rajiv Gandhi Intl
+37,MI,KKR,06-May,4 (PM),Mumbai,Wankhede
+38,KXP,RR,06-May,8 (PM),Indore,Holkar
+39,SRH,RCB,07-May,8 (PM),Hyderabad,Rajiv Gandhi Intl
+40,RR,KXP,08-May,8 (PM),Jaipur,Sawai Mansingh 
+41,KKR,MI,09-May,8 (PM),Kolkata,Eden Gardens
+42,DD,SRH,10-May,8 (PM),Delhi,Feroz Shah Kotla 
+43,RR,CSK,11-May,8 (PM),Jaipur,Sawai Mansingh 
+44,KXP,KKR,12-May,4 (PM),Indore,Holkar
+45,RCB,DD,12-May,8 (PM),Bengaluru,Feroz Shah Kotla 
+46,CSK,SRH,13-May,4 (PM),Chennai,Chidambaram 
+47,MI,RR,13-May,8 (PM),Mumbai,Wankhede
+48,KXP,RCB,14-May,8 (PM),Indore,Holkar
+49,KKR,RR,15-May,8 (PM),Kolkata,Eden Gardens
+50,MI,KXP,16-May,8 (PM),Mumbai,Wankhede
+51,RCB,SRH,17-May,8 (PM),Bengaluru,M. Chinnaswamy 
+52,DD,CSK,18-May,8 (PM),Delhi,Feroz Shah Kotla 
+53,RR,RCB,19-May,4 (PM),Jaipur,Sawai Mansingh 
+54,SRH,KKR,19-May,8 (PM),Hyderabad,Rajiv Gandhi Intl
+55,DD,MI,20-May,4 (PM),Delhi,Feroz Shah Kotla 
+56,CSK,KXP,20-May,8 (PM),Chennai,Chidambaram 
+57,TBD,TBD,22-May,8 (PM),Mumbai,Wankhede
+58,TBD,TBD,23-May,8 (PM),Pune,MCA
+59,TBD,TBD,25-May,8 (PM),Pune,MCA
+60,TBD,TBD,27-May,8 (PM),Mumbai,Wankhede
