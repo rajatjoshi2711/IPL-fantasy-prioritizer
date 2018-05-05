@@ -1,0 +1,6 @@
+What was the match number of last match that took place?
+Ans: 34
+Next match is match number 35 between 'CSK' and 'RCB'.
+
+Priorities: 
+[('CSK', 12), ('DD', 12), ('MI', 12), ('KKR', 13), ('KXP', 13), ('RR', 14), ('RCB', 16), ('SRH', 18)]
